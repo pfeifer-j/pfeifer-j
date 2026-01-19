@@ -13,11 +13,7 @@
 
 ### 🧠 About me
 
-I’m a Computer Science M.Sc. student at **Universität Hamburg** with a strong interest in  
-**cybersecurity, network analysis, and AI-assisted detection systems**.
-
-I enjoy working on systems where you can *see what’s going on* — networks, traffic, devices,
-models — and then gradually make sense of them.
+I’m a Computer Science M.Sc. student at **Universität Hamburg** with a strong interest in **cybersecurity, network analysis, and AI-assisted detection systems**.
 
 ---
 
@@ -43,7 +39,6 @@ I’m actively looking for **full-time roles** in
 
 ### 📫 Find me elsewhere
 
-- GitHub: https://github.com/pfeifer-j  
 - Email: jan.pfeifer@silbador.de  
 - LinkedIn: https://www.linkedin.com/in/jan-pfeifer-035941248/  
 - ResearchGate: https://www.researchgate.net/profile/Jan-Pfeifer-9  
