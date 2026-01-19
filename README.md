@@ -51,13 +51,11 @@ I’m a Computer Science M.Sc. student at **Universität Hamburg** with a strong
 </p>
 
 
+---
 
+### 🚀 Current status: **Open to work** 
 
-### 🚀 Current status
-
-💼 **Open to work**  
-I’m actively looking for **full-time roles** in  
-**cybersecurity, networks, or applied ML**.
+I’m actively looking for **full-time roles** in **cybersecurity, networks, or applied ML**.
 
 📍 Germany · Ready to move · Remote-friendly
 
@@ -70,8 +68,7 @@ I’m actively looking for **full-time roles** in
 - ResearchGate: https://www.researchgate.net/profile/Jan-Pfeifer-9  
 
 <sub>
-P.S. If you’re reviewing this repo: yes, some things are cleaner than others.  
-That’s because learning is not a linear process 🦆
+P.S. If you’re reviewing this repo: yes, some things are cleaner than others. That’s because learning is not a linear process 🦆
 </sub>
 
 ---
