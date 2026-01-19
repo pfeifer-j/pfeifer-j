@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Hey, I'm Jan 👋</h1>
 
 <p align="center">
@@ -67,9 +65,12 @@ I’m actively looking for **full-time roles** in
 - LinkedIn: https://www.linkedin.com/in/jan-pfeifer-035941248/  
 - ResearchGate: https://www.researchgate.net/profile/Jan-Pfeifer-9  
 
----
-
 <sub>
 P.S. If you’re reviewing this repo: yes, some things are cleaner than others.  
 That’s because learning is not a linear process 🦆
 </sub>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/pfeifer-j/pfeifer-j/output/github-contribution-grid-snake.svg)
+
