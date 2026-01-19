@@ -13,24 +13,28 @@ on:
     branches:
       - main
 
+# Required so github-actions[bot] can push to the output branch
+permissions:
+  contents: write
+
 jobs:
   generate:
+    name: Generate snake assets
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    # Redundant but helpful if repo/org settings are strict
+    permissions:
+      contents: write
+
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Generate GitHub contributions snake
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-
-          # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -38,8 +42,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
