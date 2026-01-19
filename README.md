@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hey, I'm Jan 👋</h1>
 
 <p align="center">
